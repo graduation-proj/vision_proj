@@ -1,0 +1,543 @@
+images-1
+bird 84%
+bird 87%
+
+images-2
+bird 68%
+
+images-3
+sheep 52%
+
+images-4
+dog 79%
+cat 99%
+cat 78%
+
+images-5
+dog 100%
+
+images-6
+sheep 66%
+dog 55%
+sheep 79%
+
+images-7
+person 100%
+sheep 95%
+sheep 94%
+sheep 91%
+sheep 90%
+sheep 88%
+sheep 87%
+sheep 79%
+sheep 78%
+sheep 77%
+sheep 69%
+sheep 61%
+sheep 57%
+sheep 52%
+sheep 51%
+sheep 99%
+
+images-8
+dog 61%
+sheep 80%
+
+images-9
+teddy bear 70%
+
+images-10
+bird 100%
+
+images-11
+bird 100%
+
+images-12
+bird 100%
+
+images-13
+bird 59%
+
+images-14
+bird 97%
+bird 97%
+bird 97%
+bird 96%
+bird 88%
+bird 85%
+bird 83%
+bird 78%
+bird 65%
+bird 59%
+bird 98%
+
+images-15
+bird 90%
+bird 86%
+bird 97%
+
+images-16
+bird 97%
+bird 82%
+bird 70%
+bird 57%
+
+images-17
+bird 99%
+
+images-18
+bird 67%
+
+images-19
+bird 91%
+bird 90%
+bird 80%
+bird 75%
+bird 99%
+
+images-20
+giraffe 99%
+giraffe 99%
+
+images-21
+giraffe 100%
+giraffe 100%
+giraffe 100%
+giraffe 100%
+giraffe 99%
+horse 96%
+
+images-22
+giraffe 100%
+giraffe 100%
+giraffe 99%
+
+images-23
+giraffe 100%
+giraffe 100%
+giraffe 100%
+giraffe 100%
+
+images-24
+horse 100%
+horse 100%
+horse 100%
+horse 99%
+horse 99%
+horse 98%
+horse 93%
+horse 91%
+horse 82%
+horse 69%
+horse 67%
+
+images-25
+horse 100%
+horse 100%
+horse 100%
+horse 100%
+horse 99%
+
+images-26
+zebra 99%
+zebra 99%
+zebra 92%
+zebra 100%
+
+images-27
+zebra 100%
+
+images-28
+cat 97%
+
+images-29
+cat 64%
+
+images-30
+cat 94%
+
+images-31
+cat 98%
+
+images-32
+cake 58%
+cat 99%
+
+images-33
+dog 93%
+
+images-34
+dog 100%
+dog 99%
+dog 99%
+dog 100%
+
+images-35
+dog 92%
+
+images-36
+bird 97%
+
+images-37
+person 90%
+person 69%
+person 79%
+dog 77%
+
+images-38
+bear 99%
+
+images-39
+person 100%
+dog 88%
+dog 92%
+
+images-40
+bear 93%
+bear 69%
+
+images-41
+bear 68%
+
+images-42
+frisbee 53%
+person 100%
+person 100%
+person 100%
+person 99%
+person 99%
+person 100%
+
+images-43
+bear 96%
+
+images-44
+bird 91%
+bird 98%
+
+images-45
+person 98%
+dog 82%
+
+images-46
+teddy bear 75%
+cat 99%
+dog 98%
+cat 89%
+
+images-47
+dog 98%
+
+images-48
+bird 97%
+
+images-49
+bird 83%
+bird 93%
+
+images-50
+giraffe 100%
+
+images-51
+giraffe 100%
+
+images-52
+horse 98%
+horse 85%
+
+images-53
+horse 96%
+
+images-54
+zebra 99%
+zebra 86%
+zebra 100%
+
+images-55
+zebra 100%
+
+images-56
+bed 55%
+cat 99%
+
+images-57
+dog 99%
+dog 99%
+dog 100%
+
+images-58
+dog 99%
+dog 98%
+dog 98%
+dog 99%
+
+images-59
+bear 100%
+
+images-60
+bird 99%
+
+images-61
+bird 98%
+bird 55%
+
+images-62
+dog 66%
+person 88%
+person 100%
+person 100%
+person 100%
+dog 70%
+
+images-63
+cat 57%
+dog 97%
+dog 80%
+dog 99%
+
+images-64
+dog 100%
+dog 92%
+dog 85%
+dog 100%
+
+images-65
+cat 52%
+cat 86%
+dog 90%
+
+images-66
+cat 88%
+dog 98%
+
+images-67
+cat 99%
+dog 99%
+
+images-68
+cat 90%
+
+images-69
+cat 94%
+cat 58%
+
+images-70
+bowl 71%
+person 100%
+person 100%
+elephant 56%
+dog 89%
+
+images-71
+bear 79%
+
+images-72
+teddy bear 72%
+bear 83%
+
+images-73
+person 100%
+person 100%
+person 100%
+handbag 87%
+
+images-74
+bear 95%
+
+images-75
+person 99%
+person 99%
+person 97%
+person 100%
+
+images-76
+sheep 98%
+sheep 96%
+sheep 99%
+
+images-77
+dog 100%
+dog 100%
+chair 92%
+
+images-78
+person 100%
+person 99%
+person 100%
+
+images-79
+cow 56%
+sheep 85%
+
+images-80
+person 99%
+person 100%
+
+images-81
+sheep 99%
+sheep 93%
+sheep 83%
+
+images-82
+bird 99%
+bird 92%
+bird 100%
+
+images-83
+bird 94%
+bird 57%
+
+images-84
+bird 91%
+
+images-85
+bird 76%
+
+images-86
+person 99%
+person 99%
+person 99%
+person 99%
+person 98%
+person 98%
+person 98%
+person 97%
+person 100%
+
+images-87
+horse 97%
+person 95%
+
+images-88
+horse 100%
+horse 99%
+person 100%
+
+images-89
+horse 100%
+horse 100%
+horse 99%
+horse 91%
+horse 73%
+person 65%
+person 94%
+
+images-90
+horse 98%
+
+images-91
+cat 80%
+
+images-92
+cat 99%
+cat 96%
+cat 94%
+
+images-93
+cat 50%
+
+images-94
+person 98%
+person 95%
+person 100%
+
+images-95
+handbag 94%
+person 91%
+person 100%
+person 100%
+person 98%
+person 97%
+handbag 95%
+
+images-96
+person 100%
+person 100%
+person 100%
+
+images-97
+cell phone 53%
+handbag 81%
+handbag 74%
+handbag 65%
+handbag 50%
+person 100%
+person 100%
+person 100%
+person 100%
+handbag 86%
+
+images-98
+cat 97%
+
+images-99
+dog 82%
+
+images-100
+dog 89%
+cat 69%
+dog 100%
+
+images-101
+bicycle 99%
+truck 92%
+dog 100%
+
+images-102
+bird 99%
+
+images-103
+giraffe 98%
+zebra 98%
+
+images-104
+horse 100%
+horse 100%
+horse 96%
+horse 95%
+
+images-105
+kite 99%
+kite 84%
+kite 80%
+kite 73%
+person 95%
+person 91%
+person 88%
+person 85%
+person 100%
+person 52%
+person 100%
+person 97%
+person 96%
+
+images-106
+horse 100%
+person 100%
+dog 99%
+
+images-107
+
+
+bird 86.53061224489795% 49개
+sheep 80.6923076923077% 26개
+dog 91.62790697674419% 43개
+cat 85.0% 25개
+person 96.16176470588235% 68개
+teddy bear 72.33333333333333% 3개
+giraffe 99.6470588235294% 17개
+horse 94.70588235294117% 34개
+zebra 97.3% 10개
+cake 58.0% 1개
+bear 86.88888888888889% 9개
+frisbee 53.0% 1개
+bed 55.0% 1개
+bowl 71.0% 1개
+elephant 56.0% 1개
+handbag 79.0% 8개
+chair 92.0% 1개
+cow 56.0% 1개
+cell phone 53.0% 1개
+bicycle 99.0% 1개
+truck 92.0% 1개
+kite 84.0% 4개
