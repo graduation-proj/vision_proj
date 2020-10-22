@@ -1,1 +1,26 @@
-# vision_proj
+# 졸업 프로젝트  
+```
+진행 시기 : 2020.03 - 2020.11
+참가 인원 : 김재홍, 김정욱  
+지도 교수님 : 김태현 교수님  
+```
+## Image 손상 정도에 따른 Yolo model 성능 평가
+---
+### 목표
+* 여러 image 손상 기법 사용해 image 손상시키기.
+* 다양한 Image 손상 기법에 따른 Yolo model의 성능 분석.
+---
+예시결과
+---
+### 결론
+* Precision과 Recall으로만 봤을 경우 Salt and Pepper noise를 다루는 새로운 연구가 필요하다고 생각한다.
+* 검출 threshold를 높인다면 더 높은 confidence score를 가지는 객체를 인식하므로 precision이 향상될 것이라 생각한다.
+* Noise image에 대한 Precision 과 Recall이 감소하지만 Yolo model 굉장히 빠른 모델이기에 다양한 분야에 적용할 수 있을 것이라고 생각한다.
+---
+### ppt
+---
+### 참고
+* YOLO v1 | [논문](https://pjreddie.com/media/files/papers/yolo_1.pdf) |
+* YOLO v2 | [논문](https://pjreddie.com/media/files/papers/YOLO9000.pdf) |
+* YOLO v3 | [논문](https://pjreddie.com/media/files/papers/YOLOv3.pdf) |
+* YOLO 사이트 | [주소](https://pjreddie.com/) |
