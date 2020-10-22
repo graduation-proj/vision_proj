@@ -1,0 +1,101 @@
+1 umbrella:62%,bird:79%,
+2 
+3 
+4 dog:58%,
+5 dog:77%,
+6 sheep:55%,
+7 sheep:98%,sheep:96%,sheep:94%,sheep:87%,sheep:74%,sheep:70%,sheep:63%,sheep:62%,sheep:62%,sheep:53%,person:100%,
+8 
+9 
+10 bird:93%,
+11 bird:71%,
+12 bird:98%,
+13 
+14 bird:97%,
+15 spoon:69%,bird:98%,
+16 
+17 bird:95%,bird:65%,
+18 
+19 bird:77%,bird:76%,bird:70%,
+20 giraffe:100%,giraffe:99%,
+21 giraffe:100%,giraffe:100%,giraffe:98%,giraffe:93%,giraffe:79%,horse:65%,
+22 giraffe:100%,giraffe:98%,giraffe:52%,
+23 giraffe:100%,giraffe:100%,giraffe:99%,giraffe:98%,
+24 horse:99%,horse:99%,horse:99%,horse:99%,horse:97%,horse:95%,horse:95%,horse:75%,horse:75%,horse:73%,bird:55%,
+25 horse:100%,horse:99%,horse:99%,horse:95%,bird:58%,
+26 zebra:100%,zebra:98%,zebra:95%,zebra:95%,
+27 zebra:100%,
+28 
+29 
+30 
+31 cat:62%,
+32 cat:90%,
+33 
+34 dog:100%,dog:99%,dog:99%,dog:96%,
+35 cow:83%,dog:69%,
+36 bird:93%,
+37 
+38 bear:95%,
+39 person:98%,
+40 
+41 cow:58%,
+42 person:100%,person:100%,person:100%,person:99%,person:99%,person:99%,
+43 
+44 bird:68%,
+45 person:59%,
+46 cat:79%,
+47 
+48 bird:97%,
+49 
+50 giraffe:51%,
+51 giraffe:100%,
+52 horse:94%,
+53 horse:99%,
+54 zebra:100%,zebra:59%,
+55 zebra:99%,
+56 
+57 dog:79%,
+58 dog:97%,dog:97%,dog:96%,
+59 bear:95%,
+60 bird:100%,
+61 
+62 teddy bear:58%,dog:51%,person:100%,person:100%,person:100%,
+63 
+64 dog:85%,dog:79%,dog:55%,
+65 
+66 
+67 cat:79%,
+68 
+69 cat:57%,
+70 frisbee:92%,cow:50%,dog:73%,person:100%,person:100%,
+71 cake:62%,
+72 
+73 person:99%,person:99%,person:97%,
+74 
+75 person:98%,person:98%,person:88%,
+76 cow:67%,cow:51%,sheep:97%,sheep:93%,sheep:90%,
+77 chair:93%,dog:71%,horse:57%,dog:63%,
+78 person:100%,person:100%,person:94%,
+79 
+80 person:96%,person:51%,
+81 sheep:95%,sheep:64%,sheep:54%,
+82 bird:69%,
+83 bird:97%,
+84 
+85 
+86 person:100%,person:100%,person:99%,person:99%,person:99%,person:97%,person:97%,person:97%,person:96%,
+87 horse:96%,person:98%,
+88 horse:100%,horse:100%,person:100%,
+89 horse:100%,horse:100%,horse:96%,horse:79%,person:94%,person:66%,person:55%,
+90 horse:62%,person:60%,
+91 
+92 dog:78%,cat:92%,
+93 
+94 person:89%,person:88%,
+95 handbag:79%,handbag:70%,person:100%,person:99%,person:97%,person:94%,person:84%,
+96 person:100%,person:99%,person:98%,
+97 handbag:83%,handbag:56%,handbag:50%,person:100%,person:100%,person:100%,person:100%,
+98 
+99 
+100 dog:98%,
+count : 184

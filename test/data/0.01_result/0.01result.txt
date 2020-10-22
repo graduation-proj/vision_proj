@@ -1,0 +1,101 @@
+1 umbrella:61%,bird:95%,
+2 
+3 
+4 
+5 bed:65%,
+6 
+7 person:98%,
+8 
+9 
+10 
+11 
+12 bird:97%,bird:74%,
+13 
+14 bird:99%,
+15 spoon:56%,bird:95%,
+16 
+17 bird:87%,bird:82%,
+18 vase:79%,vase:59%,person:75%,
+19 
+20 giraffe:100%,giraffe:98%,
+21 giraffe:99%,giraffe:95%,giraffe:73%,horse:76%,
+22 umbrella:72%,giraffe:100%,bird:97%,
+23 umbrella:58%,giraffe:100%,giraffe:99%,giraffe:99%,giraffe:93%,
+24 cow:51%,horse:99%,horse:98%,horse:97%,horse:97%,horse:93%,horse:91%,horse:72%,bird:97%,
+25 horse:99%,horse:91%,horse:55%,bird:63%,
+26 zebra:100%,zebra:92%,zebra:88%,zebra:61%,
+27 zebra:100%,
+28 
+29 
+30 
+31 bed:68%,
+32 
+33 
+34 dog:100%,dog:99%,dog:99%,
+35 dog:70%,
+36 bird:85%,bird:80%,
+37 
+38 bear:95%,
+39 person:83%,
+40 
+41 bear:93%,
+42 person:100%,person:100%,person:100%,person:99%,person:99%,person:96%,
+43 
+44 bird:67%,
+45 
+46 
+47 
+48 bird:97%,
+49 
+50 
+51 giraffe:99%,
+52 
+53 horse:82%,
+54 zebra:99%,
+55 zebra:95%,
+56 
+57 
+58 dog:79%,dog:63%,dog:61%,
+59 bear:61%,
+60 bird:100%,
+61 
+62 dog:74%,person:100%,person:99%,person:96%,
+63 
+64 dog:71%,person:85%,
+65 
+66 dog:72%,
+67 
+68 
+69 
+70 frisbee:87%,person:100%,person:61%,
+71 
+72 
+73 person:98%,person:96%,person:68%,
+74 elephant:63%,
+75 person:99%,person:93%,person:93%,person:59%,
+76 cow:86%,cow:53%,sheep:78%,sheep:75%,sheep:73%,
+77 chair:72%,dog:67%,
+78 person:52%,
+79 sheep:56%,
+80 person:99%,
+81 
+82 
+83 bird:94%,
+84 
+85 
+86 person:100%,person:99%,person:99%,person:99%,person:98%,person:97%,person:97%,person:84%,person:81%,
+87 horse:89%,person:82%,
+88 horse:100%,horse:100%,person:100%,
+89 horse:100%,horse:92%,horse:72%,person:89%,person:51%,
+90 person:63%,
+91 
+92 
+93 bird:83%,
+94 person:91%,
+95 handbag:59%,handbag:53%,person:99%,person:98%,person:97%,person:97%,person:83%,
+96 person:100%,person:98%,person:94%,
+97 handbag:85%,handbag:54%,person:100%,person:100%,person:99%,person:98%,
+98 
+99 
+100 bed:54%,
+count : 141
