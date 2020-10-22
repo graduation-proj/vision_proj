@@ -10,14 +10,35 @@
 * 여러 image 손상 기법 사용해 image 손상시키기.
 * 다양한 Image 손상 기법에 따른 Yolo model의 성능 분석.
 ---
-예시결과
+### 예시결과
+* blur33
+<img src="/test/result/blur33/images-101.jpg" width="200" height="200">
+
+* blur33
+<img src="/test/result/blur33/images-101.jpg" width="200" height="200">
+
+* blur55
+<img src="/test/result/blur33/images-101.jpg" width="200" height="200">
+
+* color trans1
+<img src="/test/result/trans1/images-101.jpg" width="200" height="200">
+
+* color trans2
+<img src="/test/result/trans2/images-101.jpg" width="200" height="200">
+
+* salt and papper 0.01
+<img src="/test/result/0.01/images-101.jpg" width="200" height="200">
+
+* salt and papper 0.005
+<img src="/test/result/0.005/images-101.jpg" width="200" height="200">
+
 ---
 ### 결론
 * Precision과 Recall으로만 봤을 경우 Salt and Pepper noise를 다루는 새로운 연구가 필요하다고 생각한다.
 * 검출 threshold를 높인다면 더 높은 confidence score를 가지는 객체를 인식하므로 precision이 향상될 것이라 생각한다.
 * Noise image에 대한 Precision 과 Recall이 감소하지만 Yolo model 굉장히 빠른 모델이기에 다양한 분야에 적용할 수 있을 것이라고 생각한다.
 ---
-### ppt
+### [ppt]()
 ---
 ### 참고
 * YOLO v1 | [논문](https://pjreddie.com/media/files/papers/yolo_1.pdf) |
