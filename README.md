@@ -38,7 +38,7 @@
 * 검출 threshold를 높인다면 더 높은 confidence score를 가지는 객체를 인식하므로 precision이 향상될 것이라 생각한다.
 * Noise image에 대한 Precision 과 Recall이 감소하지만 Yolo model 굉장히 빠른 모델이기에 다양한 분야에 적용할 수 있을 것이라고 생각한다.
 ---
-### [ppt]()
+### [ppt](https://github.com/graduation-proj/vision_proj/blob/main/Image%20%EC%86%90%EC%83%81%20%EC%A0%95%EB%8F%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20Yolo%20model%20%EC%84%B1%EB%8A%A5%20%ED%8F%89%EA%B0%80.pptx)
 ---
 ### 참고
 * YOLO v1 | [논문](https://pjreddie.com/media/files/papers/yolo_1.pdf) |
